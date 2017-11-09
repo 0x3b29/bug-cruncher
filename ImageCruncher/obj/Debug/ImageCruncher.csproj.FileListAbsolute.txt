@@ -1,0 +1,9 @@
+c:\users\oli\documents\visual studio 2015\Projects\ImageCruncher\ImageCruncher\obj\Debug\ImageCruncher.csproj.GenerateResource.Cache
+c:\users\oli\documents\visual studio 2015\Projects\ImageCruncher\ImageCruncher\bin\Debug\ImageCruncher.exe.config
+c:\users\oli\documents\visual studio 2015\Projects\ImageCruncher\ImageCruncher\bin\Debug\ImageCruncher.exe
+c:\users\oli\documents\visual studio 2015\Projects\ImageCruncher\ImageCruncher\bin\Debug\ImageCruncher.pdb
+c:\users\oli\documents\visual studio 2015\Projects\ImageCruncher\ImageCruncher\obj\Debug\ImageCruncher.Properties.Resources.resources
+c:\users\oli\documents\visual studio 2015\Projects\ImageCruncher\ImageCruncher\obj\Debug\ImageCruncher.exe
+c:\users\oli\documents\visual studio 2015\Projects\ImageCruncher\ImageCruncher\obj\Debug\ImageCruncher.pdb
+c:\users\oli\documents\visual studio 2015\Projects\ImageCruncher\ImageCruncher\obj\Debug\ImageCruncher.csprojResolveAssemblyReference.cache
+C:\Users\oli\documents\visual studio 2015\Projects\ImageCruncher\ImageCruncher\obj\Debug\ImageCruncher.Form1.resources
